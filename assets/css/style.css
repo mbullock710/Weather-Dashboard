@@ -8,7 +8,19 @@ h1 {
     padding-top: 3vh;
 }
 
+.margin-bottom {
+    margin-bottom: 10px;
+}
+
 .container {
     padding-top: 5vh;
     font-size: large;
+}
+
+.divider {
+    border: 2px solid #ccc; 
+    padding: 15px;
+    margin-bottom: 20px; 
+    margin-top: 20px;
+    background-color: black;
 }
