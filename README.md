@@ -18,7 +18,8 @@ THEN I am again presented with current and future conditions for that city
 
 ## Screenshot of Webpage
 
-
+![_C__Users_MichaelBullock_bootcamp_Challenges_Weather-Dashboard_index html](https://github.com/mbullock710/Weather-Dashboard/assets/148500556/095aa168-a23b-4ba7-925b-7c40384fa1ed)
 
 ## Link to Deployed Application
 
+https://mbullock710.github.io/Weather-Dashboard/
